@@ -39,7 +39,7 @@ def download_data(op, start_date, end_date):
 
 
 
-option = st.sidebar.text_input('Enter a Stock Symbol', value='SPY')
+option = st.sidebar.text_input('Enter a Stock Symbol', value='INFY')
 option = option.upper()
 today = datetime.date.today()
 duration = st.sidebar.number_input('Enter the duration', value=3000)
