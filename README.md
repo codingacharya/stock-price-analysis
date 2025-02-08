@@ -2,7 +2,7 @@
 
 Welcome to the Stock Price Prediction App! This app allows you to visualize stock price data, explore technical indicators, and make short-term price predictions using machine learning models.
 
-Created and designed by [Vikas Sharma](https://www.linkedin.com/in/vikas-sharma005/).
+
 
 ## Table of Contents
 
@@ -29,12 +29,12 @@ The Stock Price Prediction App is a Streamlit-based web application that provide
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/vikasharma005/Stock-Price-Prediction.git
+   git clone https://github.com/vikasharma005/Stock-Price-Analysis.git
    ```
 
 2. Navigate to the project directory:
    ```sh
-   cd stock-price-prediction-app
+   cd stock-price-analysis
    ```
 
 3. Install the required Python packages using pip:
@@ -69,8 +69,8 @@ The Stock Price Prediction App is a Streamlit-based web application that provide
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h3 align="center">Hi there 👋, I'm Vikas</h3>
-<h4 align="center">Just learning New Skills😀</h4>
+<h3 align="center">Educational</h3>
+<h4 align="center">Thank you sharma</h4>
 
 <div id="socials" align="center">
   <a href="https://www.linkedin.com/in/vikas-sharma005">
@@ -84,10 +84,7 @@ The Stock Price Prediction App is a Streamlit-based web application that provide
   </a>
 </div>
 
-You can find more about me and my projects on my [GitHub profile](https://github.com/vikasharma005).
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
----
+
