@@ -29,7 +29,7 @@ The Stock Price Prediction App is a Streamlit-based web application that provide
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/vikasharma005/Stock-Price-Analysis.git
+   git clone https://github.com/codingacharya/Stock-Price-Analysis.git
    ```
 
 2. Navigate to the project directory:
